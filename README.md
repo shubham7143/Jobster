@@ -174,9 +174,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Hritik Gupta - [Hritik Gupta] - hritik.gupta.2899@gmail.com
+Shubham Gupta - [Shubham Gupta] 
 
-Project Link: [https://github.com/hritik2899/Jobster/](https://github.com/hritik2899/Jobster/)
+Project Link: [https://github.com/shubham7143/Jobster/](https://github.com/shubham7143/Jobster/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
