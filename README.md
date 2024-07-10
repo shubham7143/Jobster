@@ -13,11 +13,11 @@
   <p align="center">
     With our comprehensive job tracking system, you can easily follow up on job leads, interviews and offers, and stay on top of your job search. Our goal is to help you find the perfect job match, faster.
     <br />
-    <a href="https://jobster-project.netlify.app">View Demo</a>
+<!--     <a href="https://jobster-project.netlify.app">View Demo</a> -->
     &nbsp;.&nbsp;
-    <a href="https://github.com/amRohitKumar/jobster/issues">Report Bug</a>
+<!--     <a href="https://github.com/shu/jobster/issues">Report Bug</a> -->
     &nbsp;.&nbsp;
-    <a href="https://github.com/amRohitKumar/jobster/issues">Request Feature</a>
+<!--     <a href="https://github.com/amRohitKumar/jobster/issues">Request Feature</a> -->
   </p>
 </div>
 
